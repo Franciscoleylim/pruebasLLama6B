@@ -1,0 +1,10 @@
+
+# lista el gitignore para ver que archivos no se suben al repositorio
+node_modules
+# archivos de configuracion
+.env
+.env.example
+.env.local
+.env.development.local
+.env.test.local
+/node_modules
